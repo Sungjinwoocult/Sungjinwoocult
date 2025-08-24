@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sungjinwoocult
-- 🌱 I’m currently learning c, python, java
+- 🌱 I’m currently learning c, python, java, mysql and javascript
 - 💞️ I’m looking to collaborate on small programming projs
 
 <!---
